@@ -1,0 +1,18 @@
+/*
+Theme Name: theme1
+Theme URI: Your theme's URL
+Description: A brief description of your theme
+Version: 1.0 or any other version you want
+Author: Your name or WordPress.org's username
+Author URI: Your web address
+Tags: Tags to locate your theme in the WordPress theme repository
+*/
+
+body { text-align: center; }
+#wrapper { display: block; border: 1px #a2a2a2 solid; width:90%; margin:0px auto; }
+#header { border: 2px #a2a2a2 solid; }
+#content { width: 75%; border: 2px #a2a2a2 solid; float: left; }
+#sidebar { width: 23%; border: 2px #a2a2a2 solid; float: right; }
+#delimiter { clear: both; }
+#footer { border: 2px #a2a2a2 solid; }
+.title { font-size: 11pt; font-family: verdana; font-weight: bold; }
